@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#E43F3F</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="accent">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <!--For Splash Screen-->
+    <color name="Splash_colorPrimary">#E43F3F</color>
+    <color name="Splash_colorPrimaryDark">#B71C1C</color>
+    <color name="Splash_colorAccent">#E12929</color>
+
+    <!-- For Login Screen-->
+    <color name="Login_colorPrimary">#E43F3F</color>
+    <color name="Login_colorPrimaryDark">#B71C1C</color>
+    <color name="Login_colorAccent">#E12929</color>
+
+    <!--For Home Screen-->
+    <color name="Home_colorPrimary">#125688</color>
+    <color name="Home_colorPrimaryDark">#125688</color>
+    <color name="Home_textColorPrimary">#FFFFFF</color>
+    <color name="Home_windowBackground">#FFFFFF</color>
+    <color name="Home_navigationBarColor">#000000</color>
+    <color name="Home_colorAccent">#c8e8ff</color>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMU Connect</string>
+    <string name="login_Button">LOGIN</string>
+    <string name="emptystring" />
+</resources>
